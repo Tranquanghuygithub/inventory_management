@@ -1,0 +1,4 @@
+- Ninh Hoang Cuong
+- Inventory Management
+- Spring MVC
+- Hibernate
